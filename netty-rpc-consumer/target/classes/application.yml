@@ -1,0 +1,5 @@
+server:
+  port: 8888
+rpc:
+  registry:
+    address: 192.168.137.128:2181

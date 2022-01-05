@@ -1,0 +1,4 @@
+rpc:
+  registry:
+    address: 192.168.137.128:2181
+  port: 8000
